@@ -3,7 +3,7 @@
     "description": "CGO-1 Basic CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "C#"
     ],
     "filePatterns": [
         "package.json$",
