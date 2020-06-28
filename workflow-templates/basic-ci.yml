@@ -1,4 +1,5 @@
 name: CGO-1 CI
+
 on:
   push:
     branches: [ test-branch ]
