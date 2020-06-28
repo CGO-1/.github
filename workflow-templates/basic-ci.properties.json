@@ -1,0 +1,12 @@
+{
+    "name": "CGO-1 Basic CI workflow",
+    "description": "CGO-1 Basic CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile*"
+    ]
+}
